@@ -1,9 +1,10 @@
 import React from 'react';
+import Monster from "./components/molecules/Monster/Monster"
 
 function App() {
   return (
     <div className="App">
-      <h4>haha</h4>
+      <Monster/>
     </div>
   );
 }
